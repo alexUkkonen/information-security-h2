@@ -15,3 +15,9 @@
 
 ### Procedure
 * Proceduere is the exact way the attacker preformed the attack. Example: Spearphishing with a link that takes you to a site requesting your credentials for a security update trough a spoofed internal Gmail that looks like it came from your IT department.
+
+## Sources
+
+* https://attack.mitre.org
+* https://terokarvinen.com/information-security/#h2-kill-chain
+* https://attack.mitre.org/
